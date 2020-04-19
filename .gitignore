@@ -1,1 +1,9 @@
 pre_compiled
+.vs
+*.tlog
+*.obj
+*.exp
+Debug
+*.log
+*.vcxproj.user
+
