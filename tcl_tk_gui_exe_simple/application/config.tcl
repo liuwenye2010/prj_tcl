@@ -1,0 +1,3 @@
+set CONFIG_TCP y
+set CONFIG_USB y
+set CONFIG_DEFAULT_VIEW y 
