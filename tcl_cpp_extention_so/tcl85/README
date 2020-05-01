@@ -1,0 +1,11 @@
+
+
+This Tcl library and include files were built from the source code of version 8.5.14 downloaded from: http://www.tcl.tk/software/tcltk/download.html. 
+
+To build the code :
+
+cd win
+nmake -f Makefile.vc release
+nmake install <path to installation folder>
+
+The library and include files are under include/ and lib/
